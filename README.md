@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Rogue-striker
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning ethical hacking
-- javascript sucks!!!...
