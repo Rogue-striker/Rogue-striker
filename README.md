@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran peraka</h1>
-<h3 align="center">Noob!!!...</h3>
+<h3 align="center">web developer and web pentester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogue-striker&label=Profile%20views&color=0e75b6&style=flat" alt="rogue-striker" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kiranperaka@protonmail.com**
 
-- ⚡ Fun fact **I think I am funy**
+- ⚡ Fun fact **I'm just a kid!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
