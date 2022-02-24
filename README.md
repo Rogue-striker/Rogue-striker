@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kiranperaka@protonmail.com**
 
-- ⚡ Fun fact **I am not that funny**
+- ⚡ Fun fact **With great power come heat🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
