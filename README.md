@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kiran peraka</h1>
-<h3 align="center">Pretending to be a web developer 😜</h3>
+<h3 align="center">A Under Graduate Student at CMR College of Engineering and Technology . Currently learing Software Development😜</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogue-striker&label=Profile%20views&color=0e75b6&style=flat" alt="rogue-striker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rogue-striker" alt="rogue-striker" /></a> </p>
 
-- 📫 How to reach me **kiranperaka@protonmail.com**
+- 📫 How to reach me **jyothikiran52@gmail.com**
 
-- ⚡ Fun fact **With great power comes heat🔥**
+- ⚡ Fun fact **I know 10 programming languages ...(just know how to print hello world)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
