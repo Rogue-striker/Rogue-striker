@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran peraka</h1>
-<h3 align="center">UnderGraduate Student at CMR College of Engineering and Technology - Currently learing Software Development</h3>
+<h3 align="center">UnderGraduate Student at CMR College of Engineering and Technology - Currently learning Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogue-striker&label=Profile%20views&color=0e75b6&style=flat" alt="rogue-striker" /> </p>
 
