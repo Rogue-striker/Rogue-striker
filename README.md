@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran peraka</h1>
 <h3 align="center">⚡Keep Calm and Believe in JavaScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rogue-striker&label=Profile%20views&color=0e75b6&style=flat" alt="rogue-striker" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rogue-striker" alt="rogue-striker" /></a> </p>
 
 - 📫 How to reach me **jyothikiran52@gmail.com**
 
